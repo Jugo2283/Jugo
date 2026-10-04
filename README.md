@@ -1,2 +1,2 @@
 # Jugo
-Jugo.
+Jugo
